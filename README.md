@@ -23,6 +23,10 @@ Age Distribution among the Passengers.
 
 <img src="https://github.com/navi1910/Titanic_Project/blob/master/age_dist.png" width=50% height=50%>
 
+Heatmap of Correlation Table of `parch`, `SibSp` and `Survived`
+
+<img src="https://github.com/navi1910/Titanic_Project/blob/master/corr.png" width=50% height=50%>
+
 Countplot of Tickets according to class.
 
 <img src="https://github.com/navi1910/Titanic_Project/blob/master/count_ticketclass.png" width=50% height=50%>
@@ -30,7 +34,3 @@ Countplot of Tickets according to class.
 Distribution of Ticket Fare
 
 <img src="https://github.com/navi1910/Titanic_Project/blob/master/Ticket_fare.png" width=50% height=50%>
-
-Heatmap of Correlation Table of `parch`, `SibSp` and `Survived`
-
-<img src="https://github.com/navi1910/Titanic_Project/blob/master/corr.png" width=50% height=50%>
