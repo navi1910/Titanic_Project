@@ -38,10 +38,10 @@ Heatmap of Correlation Table of `parch`, `SibSp` and `Survived`
 
 <img src="https://github.com/navi1910/Titanic_Project/blob/master/corr.png" width=50% height=50%>
 
-### Chi-square Tests 
-##### Null Hypothesis
+## Chi-square Tests 
+- Null Hypothesis
 There is no significance in survival difference among male and female passengers.
-##### Alternate Hypothesis
+- Alternate Hypothesis
 There is significant difference in survival among male and female passengers.
 
 |Survived|0	 |1	 |All|
@@ -49,6 +49,25 @@ There is significant difference in survival among male and female passengers.
 |female	 |81 |233|314|
 |male	   |468|109|577|
 |All	   |549|342|891|
+
+**p-value = 1.1973570627755645e-58
+Reject null hypothesis, 
+There is significant difference in survival among male and female passengers**
+
+- Null Hypothesis
+There is no significance in survival difference among passengers of different class.
+-Alternate Hypothesis
+There is significant difference in survival passengers among of different class.
+
+|Survived|	0	|1	All		|
+|1	|80	|136	|216|
+|2	|97	|87	|184|
+|3	|372	|119	|491|
+|All	|549	|342	|891|
+
+**p-value = 4.549251711298793e-23
+Reject null hypothesis, 
+There is significant difference in survival among passengers of different Ticket class**
 
 ## Highlights
 Age Distribution among the Passengers.
