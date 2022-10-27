@@ -31,6 +31,14 @@ Heatmap of Correlation Table of `parch`, `SibSp` and `Survived`
 
 <img src="https://github.com/navi1910/Titanic_Project/blob/master/corr.png" width=50% height=50%>
 
+Boxplot for `Age`
+
+<img src='https://github.com/navi1910/Titanic_Project/blob/master/Age_box.png' width=50% height=50%>
+
+Countplot for Cabin
+
+<img src='https://github.com/navi1910/Titanic_Project/blob/master/cabin_countplot.png' width=50% height=50%>
+
 Countplot of Tickets according to class.
 
 <img src="https://github.com/navi1910/Titanic_Project/blob/master/count_ticketclass.png" width=50% height=50%>
