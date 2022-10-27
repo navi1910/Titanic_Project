@@ -20,4 +20,5 @@ Complete Statistical analysis of Titanic dataset.
 
 ## Highlights
 Age Distribution among the Passengers.
+
 <img src="https://github.com/navi1910/Titanic_Project/blob/master/age_dist.png" width=50% height=50%>
