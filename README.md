@@ -59,11 +59,12 @@ There is no significance in survival difference among passengers of different cl
 -Alternate Hypothesis
 There is significant difference in survival passengers among of different class.
 
-|Survived|	0	|1	All		|
-|1	|80	|136	|216|
-|2	|97	|87	|184|
-|3	|372	|119	|491|
-|All	|549	|342	|891|
+|Survived|	0	|1	  |All|
+|--------|----|-----|---|
+|1	     |80	|136	|216|
+|2	     |97	|87	  |184|
+|3	     |372	|119	|491|
+|All	   |549	|342	|891|
 
 **p-value = 4.549251711298793e-23
 Reject null hypothesis, 
