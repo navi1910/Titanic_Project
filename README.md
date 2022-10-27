@@ -18,6 +18,38 @@ Complete Statistical analysis of Titanic dataset.
 - Inferential Statistics
 - Feature Engineering
 
+## Technologies Used
+- Python
+- Kaggle
+- Pandas
+- scipy.stats
+- seaborn
+
+## Procedure
+- The data is imported as a Data Frame.
+- The data is summarized using `describe`.
+- Basic `info` is printed.
+- Each variable is analyzed using visualizations.
+
+### Probability and Correlation
+The probability of survival with respect to different attributes is analyzed.
+
+Heatmap of Correlation Table of `parch`, `SibSp` and `Survived`
+
+<img src="https://github.com/navi1910/Titanic_Project/blob/master/corr.png" width=50% height=50%>
+
+### Chi-square Tests 
+##### Null Hypothesis
+There is no significance in survival difference among male and female passengers.
+##### Alternate Hypothesis
+There is significant difference in survival among male and female passengers.
+
+|Survived|0	 |1	 |All|
+|--------|---|---|---|
+|female	 |81 |233|314|
+|male	   |468|109|577|
+|All	   |549|342|891|
+
 ## Highlights
 Age Distribution among the Passengers.
 
@@ -26,10 +58,6 @@ Age Distribution among the Passengers.
 Countplot of Passengers who survived
 
 <img src="https://github.com/navi1910/Titanic_Project/blob/master/survived_count.png" width=50% height=50%>
-
-Heatmap of Correlation Table of `parch`, `SibSp` and `Survived`
-
-<img src="https://github.com/navi1910/Titanic_Project/blob/master/corr.png" width=50% height=50%>
 
 Boxplot for `Age`
 
