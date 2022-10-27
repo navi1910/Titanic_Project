@@ -104,3 +104,9 @@ Countplot for `Sex`
 Countplot for Siblings and Spouse
 
 <img src='https://github.com/navi1910/Titanic_Project/blob/master/sib_spouse_count.png' width=50% height=50%>
+
+## Contact
+https://www.linkedin.com/in/naveen-a-902a671b3/
+
+## Data Source
+https://www.kaggle.com/competitions/titanic/data
