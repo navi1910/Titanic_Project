@@ -34,3 +34,11 @@ Countplot of Tickets according to class.
 Distribution of Ticket Fare
 
 <img src="https://github.com/navi1910/Titanic_Project/blob/master/Ticket_fare.png" width=50% height=50%>
+
+Countplot for `Sex`
+
+<img src='https://github.com/navi1910/Titanic_Project/blob/master/count_sex.png' width=50% height=50%>
+
+Countplot for Siblings and Spouse
+
+<img src='https://github.com/navi1910/Titanic_Project/blob/master/sib_spouse_count.png' width=50% height=50%>
